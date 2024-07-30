@@ -1,0 +1,1 @@
+## :relexed: 尽管huggingface构建tokenizer很方便，但我还是建议您尝试一下手撸bpe代码
