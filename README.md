@@ -1,6 +1,6 @@
 # transformer架构的自然语言处理实战代码
 
-## 项目介绍 :blush:	
+##  :blush:	 项目介绍
 基于Denis Rothman的《大模型应用解决方案-Transformer架构的自然语言处理》
 
 :star:!精简版 代码实现方向学习手册！:star:
@@ -15,11 +15,10 @@
 
 同时也可以关注huggingface的nlp course： [HuggingFace NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
 
-## 环境配置 :blush:	
+##  :blush:	 环境配置 
 ```python
 conda create -n env_name python=3.10
 ```
-## 注意事项 :blush:	
+##  :blush:	 注意事项
 
 
-:bamboo:
