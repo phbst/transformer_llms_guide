@@ -12,7 +12,7 @@
 ![tokenizer的作用](/static/tokenizer/image/tokenizer分词.png)
 
 ---
-Tokenizer 在transformer的架构中处于**Embdedding Input**区域，如图（内置）
+Tokenizer 在transformer的架构中处于**Embdedding Input**区域，如图（内置） 
 
 ![transformer架构](/static/transformer/image/transformer架构.png)
 
