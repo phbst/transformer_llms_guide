@@ -1,0 +1,341 @@
+{
+  "vocab_size": 100,
+  "word_freqs": {
+    "This": 3,
+    "Ġis": 2,
+    "Ġthe": 1,
+    "ĠHugging": 1,
+    "ĠFace": 1,
+    "ĠCourse": 1,
+    ".": 4,
+    "Ġchapter": 1,
+    "Ġabout": 1,
+    "Ġtokenization": 1,
+    "Ġsection": 1,
+    "Ġshows": 1,
+    "Ġseveral": 1,
+    "Ġtokenizer": 1,
+    "Ġalgorithms": 1,
+    "Hopefully": 1,
+    ",": 1,
+    "Ġyou": 1,
+    "Ġwill": 1,
+    "Ġbe": 1,
+    "Ġable": 1,
+    "Ġto": 1,
+    "Ġunderstand": 1,
+    "Ġhow": 1,
+    "Ġthey": 1,
+    "Ġare": 1,
+    "Ġtrained": 1,
+    "Ġand": 1,
+    "Ġgenerate": 1,
+    "Ġtokens": 1
+  },
+  "vocab": [
+    "<|endoftext|>",
+    ",",
+    ".",
+    "C",
+    "F",
+    "H",
+    "T",
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "y",
+    "z",
+    "Ġ",
+    "Ġt",
+    "is",
+    "er",
+    "Ġa",
+    "Ġto",
+    "en",
+    "Th",
+    "This",
+    "ou",
+    "se",
+    "Ġtok",
+    "Ġtoken",
+    "nd",
+    "Ġis",
+    "Ġth",
+    "Ġthe",
+    "in",
+    "Ġab",
+    "Ġtokeni",
+    "Ġtokeniz",
+    "at",
+    "io",
+    "ion",
+    "Ġse",
+    "ho",
+    "how",
+    "ll",
+    "ĠH",
+    "ĠHu",
+    "ĠHug",
+    "ĠHugg",
+    "ĠHuggin",
+    "ĠHugging",
+    "ĠF",
+    "ĠFa",
+    "ĠFac",
+    "ĠFace",
+    "ĠC",
+    "ĠCou",
+    "ĠCour",
+    "ĠCourse",
+    "Ġc",
+    "Ġch",
+    "Ġcha",
+    "Ġchap",
+    "Ġchapt",
+    "Ġchapter",
+    "Ġabou",
+    "Ġabout",
+    "Ġtokenizat",
+    "Ġtokenization",
+    "Ġsec",
+    "Ġsect",
+    "Ġsection",
+    "Ġs",
+    "Ġshow",
+    "Ġshows",
+    "Ġsev",
+    "Ġsever",
+    "Ġsevera",
+    "Ġseveral",
+    "Ġtokenizer",
+    "Ġal",
+    "Ġalg",
+    "Ġalgo",
+    "Ġalgor",
+    "Ġalgori",
+    "Ġalgorit",
+    "Ġalgorith"
+  ],
+  "splits": {
+    "This": [
+      "This"
+    ],
+    "Ġis": [
+      "Ġis"
+    ],
+    "Ġthe": [
+      "Ġthe"
+    ],
+    "ĠHugging": [
+      "ĠHugging"
+    ],
+    "ĠFace": [
+      "ĠFace"
+    ],
+    "ĠCourse": [
+      "ĠCourse"
+    ],
+    ".": [
+      "."
+    ],
+    "Ġchapter": [
+      "Ġchapter"
+    ],
+    "Ġabout": [
+      "Ġabout"
+    ],
+    "Ġtokenization": [
+      "Ġtokenization"
+    ],
+    "Ġsection": [
+      "Ġsection"
+    ],
+    "Ġshows": [
+      "Ġshows"
+    ],
+    "Ġseveral": [
+      "Ġseveral"
+    ],
+    "Ġtokenizer": [
+      "Ġtokenizer"
+    ],
+    "Ġalgorithms": [
+      "Ġalgorith",
+      "m",
+      "s"
+    ],
+    "Hopefully": [
+      "H",
+      "o",
+      "p",
+      "e",
+      "f",
+      "u",
+      "ll",
+      "y"
+    ],
+    ",": [
+      ","
+    ],
+    "Ġyou": [
+      "Ġ",
+      "y",
+      "ou"
+    ],
+    "Ġwill": [
+      "Ġ",
+      "w",
+      "i",
+      "ll"
+    ],
+    "Ġbe": [
+      "Ġ",
+      "b",
+      "e"
+    ],
+    "Ġable": [
+      "Ġab",
+      "l",
+      "e"
+    ],
+    "Ġto": [
+      "Ġto"
+    ],
+    "Ġunderstand": [
+      "Ġ",
+      "u",
+      "nd",
+      "er",
+      "s",
+      "t",
+      "a",
+      "nd"
+    ],
+    "Ġhow": [
+      "Ġ",
+      "how"
+    ],
+    "Ġthey": [
+      "Ġthe",
+      "y"
+    ],
+    "Ġare": [
+      "Ġa",
+      "r",
+      "e"
+    ],
+    "Ġtrained": [
+      "Ġt",
+      "r",
+      "a",
+      "in",
+      "e",
+      "d"
+    ],
+    "Ġand": [
+      "Ġa",
+      "nd"
+    ],
+    "Ġgenerate": [
+      "Ġ",
+      "g",
+      "en",
+      "er",
+      "at",
+      "e"
+    ],
+    "Ġtokens": [
+      "Ġtoken",
+      "s"
+    ]
+  },
+  "merges": {
+    "('Ġ', 't')": "Ġt",
+    "('i', 's')": "is",
+    "('e', 'r')": "er",
+    "('Ġ', 'a')": "Ġa",
+    "('Ġt', 'o')": "Ġto",
+    "('e', 'n')": "en",
+    "('T', 'h')": "Th",
+    "('Th', 'is')": "This",
+    "('o', 'u')": "ou",
+    "('s', 'e')": "se",
+    "('Ġto', 'k')": "Ġtok",
+    "('Ġtok', 'en')": "Ġtoken",
+    "('n', 'd')": "nd",
+    "('Ġ', 'is')": "Ġis",
+    "('Ġt', 'h')": "Ġth",
+    "('Ġth', 'e')": "Ġthe",
+    "('i', 'n')": "in",
+    "('Ġa', 'b')": "Ġab",
+    "('Ġtoken', 'i')": "Ġtokeni",
+    "('Ġtokeni', 'z')": "Ġtokeniz",
+    "('a', 't')": "at",
+    "('i', 'o')": "io",
+    "('io', 'n')": "ion",
+    "('Ġ', 'se')": "Ġse",
+    "('h', 'o')": "ho",
+    "('ho', 'w')": "how",
+    "('l', 'l')": "ll",
+    "('Ġ', 'H')": "ĠH",
+    "('ĠH', 'u')": "ĠHu",
+    "('ĠHu', 'g')": "ĠHug",
+    "('ĠHug', 'g')": "ĠHugg",
+    "('ĠHugg', 'in')": "ĠHuggin",
+    "('ĠHuggin', 'g')": "ĠHugging",
+    "('Ġ', 'F')": "ĠF",
+    "('ĠF', 'a')": "ĠFa",
+    "('ĠFa', 'c')": "ĠFac",
+    "('ĠFac', 'e')": "ĠFace",
+    "('Ġ', 'C')": "ĠC",
+    "('ĠC', 'ou')": "ĠCou",
+    "('ĠCou', 'r')": "ĠCour",
+    "('ĠCour', 'se')": "ĠCourse",
+    "('Ġ', 'c')": "Ġc",
+    "('Ġc', 'h')": "Ġch",
+    "('Ġch', 'a')": "Ġcha",
+    "('Ġcha', 'p')": "Ġchap",
+    "('Ġchap', 't')": "Ġchapt",
+    "('Ġchapt', 'er')": "Ġchapter",
+    "('Ġab', 'ou')": "Ġabou",
+    "('Ġabou', 't')": "Ġabout",
+    "('Ġtokeniz', 'at')": "Ġtokenizat",
+    "('Ġtokenizat', 'ion')": "Ġtokenization",
+    "('Ġse', 'c')": "Ġsec",
+    "('Ġsec', 't')": "Ġsect",
+    "('Ġsect', 'ion')": "Ġsection",
+    "('Ġ', 's')": "Ġs",
+    "('Ġs', 'how')": "Ġshow",
+    "('Ġshow', 's')": "Ġshows",
+    "('Ġse', 'v')": "Ġsev",
+    "('Ġsev', 'er')": "Ġsever",
+    "('Ġsever', 'a')": "Ġsevera",
+    "('Ġsevera', 'l')": "Ġseveral",
+    "('Ġtokeniz', 'er')": "Ġtokenizer",
+    "('Ġa', 'l')": "Ġal",
+    "('Ġal', 'g')": "Ġalg",
+    "('Ġalg', 'o')": "Ġalgo",
+    "('Ġalgo', 'r')": "Ġalgor",
+    "('Ġalgor', 'i')": "Ġalgori",
+    "('Ġalgori', 't')": "Ġalgorit",
+    "('Ġalgorit', 'h')": "Ġalgorith"
+  }
+}
