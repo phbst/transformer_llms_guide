@@ -110,9 +110,10 @@ corpus = ["highest", "higher", "lower", "lowest", "cooler", "coolest"]
 <br>
 <hr>
 
-## WorldPiece 
-
-
+## Unigram
+## SentencePiece
+## WordPiece
+### 这几个都可以简单看一下原理，代码与BPE差不太多。
 <br>
 <hr>
 ## SententcePiece
