@@ -52,6 +52,7 @@ Word level 分词一般通过空格或者标点符号来把文本分成一个个
 <br>
 
 *
-- BPE         (暂时只讲这个)
+- BPE         (暂时只讲这个,其他的差不多)
 - WordPiece
 - SentencePiece
+- Unigram LM
