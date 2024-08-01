@@ -1,4 +1,4 @@
-### :smile: 有关embedding，我想学一下词元向量化以及位置编码的嵌入 :laughing:
+# :smile: 有关embedding，我想学一下词元向量化以及位置编码的嵌入 :laughing:
 
 
 
