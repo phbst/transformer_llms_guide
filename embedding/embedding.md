@@ -3,7 +3,7 @@
 
 
 
-# 词嵌入方法总结
+# :smile: 词嵌入方法总结:smile:
 
 ![词嵌入模型分类](../static/embedding/word_embedding.png)
 
@@ -68,3 +68,18 @@
 - ALBERT（A Lite BERT for Self-supervised Learning of Language Representations）
   * 提出了参数减少技术。
   * 降低内存消耗并提高 BERT 的训练速度。
+
+
+  ## :smile: 位置编码
+
+  一个词的语义，不仅仅要考虑本身的词义，还有不同语境的多义词，以及处于句子不同位置时的语义。
+
+  考虑到位置信息，我们需要把它也加入到嵌入向量中，表意更丰富。
+
+  ![image](../static/embedding/input_embedding.png)
+
+  ![image](../static/embedding/position_compute.png)
+
+  ![image](../static/embedding/word_workflow.png)
+
+  #### 没了，就是这样。
