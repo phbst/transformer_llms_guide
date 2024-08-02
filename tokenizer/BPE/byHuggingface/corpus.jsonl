@@ -1,0 +1,17 @@
+[
+    "This is the Hugging Face Course.",
+    "This chapter is about tokenization.",
+    "This section shows several tokenizer algorithms.",
+    "Hopefully, you will be able to understand how they are trained and generate tokens.",
+    "Natural language processing is a subfield of linguistics and artificial intelligence.",
+    "Tokenization is the process of breaking down text into smaller units.",
+    "These units, called tokens, can be words, characters, or subwords.",
+    "Different languages may require different tokenization strategies.",
+    "Machine learning models use these tokens as input for various NLP tasks.",
+    "The choice of tokenizer can significantly impact model performance.",
+    "Some popular tokenization methods include word-based, character-based, and subword tokenization.",
+    "Subword tokenization strikes a balance between the flexibility of characters and the meaning of words.",
+    "BPE, or Byte-Pair Encoding, is a common subword tokenization algorithm.",
+    "Tokenizers need to handle out-of-vocabulary words effectively.",
+    "Pre-trained models often come with their own specialized tokenizers.",
+]
